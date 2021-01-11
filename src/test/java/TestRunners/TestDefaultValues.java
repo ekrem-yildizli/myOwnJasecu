@@ -8,8 +8,8 @@ public class TestDefaultValues {
   //public static final String DEFAULT_OPERATING_SYSTEM = "MacOS";
   public static final String DEFAULT_BROWSER = "Chrome";
   public static final String DEFAULT_LINK = "http://www.facebook.com";
-  public static final String DEFAULT_USER = "ekrem.yildizli@gmail.com";
-  public static final String DEFAULT_PASSWORD = "Karaman70";
+  public static final String DEFAULT_USER = "test@gmail.com";
+  public static final String DEFAULT_PASSWORD = "test";
 
   private static String operatingSystem;
   private static String browser;

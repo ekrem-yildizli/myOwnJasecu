@@ -4,8 +4,8 @@
       <parameter name="operatingSystem" value="Windows"></parameter>
       <parameter name="browser" value="Chrome"></parameter>
       <parameter name="link" value="http://www.facebook.com"></parameter>
-      <parameter name="user" value="ekrem.yildizli@gmail.com"></parameter>
-      <parameter name="password" value="Karaman70"></parameter>
+      <parameter name="user" value="test@gmail.com"></parameter>
+      <parameter name="password" value="test"></parameter>
 
   <test name="Facebook" >
    <classes>
